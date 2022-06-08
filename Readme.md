@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Станислав Осипов](https://up.htmlacademy.ru/javascript/26/user/1957787).
-* Наставник: https://htmlacademy.ru/profile/id505487.
+* Наставник: [Роман Марченко](https://htmlacademy.ru/profile/id505487).
 
 ---
 
